@@ -1,0 +1,14 @@
+{
+  "title": "OutLiner",
+  "version": "1.0",
+  "authors": "pranto",
+  "users": [
+    {
+      "name": "shanto",
+      "emailAddress": "pranto",
+      "password": "123",
+      "isAdministrator": true,
+      "theme": "Blue"
+    }
+  ]
+}
